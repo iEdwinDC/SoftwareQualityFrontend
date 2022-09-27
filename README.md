@@ -1,1 +1,1 @@
-# softwareQualityFrontend
+# SoftwareQualityFrontend
